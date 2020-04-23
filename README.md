@@ -163,3 +163,4 @@ If you discover a security vulnerability regarding Nuxt.js, please send an e-mai
 [nuxters-href]: https://opencollective.com/nuxtjs#contributors
 [contributors-src]: https://opencollective.com/nuxtjs/contributors.svg?width=890&button=false
 [contributors-href]: https://github.com/nuxt/nuxt.js/graphs/contributors
+777777
